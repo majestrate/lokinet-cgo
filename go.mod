@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	golang.org/x/net v0.10.0
-	gvisor.dev/gvisor v0.0.0-20230613032111-084a5022563f
+	gvisor.dev/gvisor v0.0.0-20230603040744-5c9219dedd33
 )
 
 require (
