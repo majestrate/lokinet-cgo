@@ -1,7 +1,7 @@
 package lokinet
 
 import (
-	"lokinet.io/x/pkg/network"
+	"lokinet.io/x/mod/network"
 )
 
 // Network creates a new lokinet network driver that uses an embedded lokinet.
